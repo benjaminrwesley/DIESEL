@@ -1,5 +1,5 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "DIESEL"
+name = "DIESEL ENGINE"
 major = 4
 minor = 8
 patch = 0
